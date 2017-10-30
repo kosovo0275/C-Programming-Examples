@@ -1,0 +1,25 @@
+hello /// this is a comment
+hello again /// \this is a comment
+
+/* comment */
+
+/*
+*
+*
+* MULTI LINE COMMENT
+*
+*
+*/
+
+
+words words words // commentzzzz 
+
+
+this is a test file /* comment */
+
+
+
+
+blah blah blah
+
+blah blah blah //comment
